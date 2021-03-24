@@ -9191,7 +9191,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   padding: 6em 0 0 0;
-  background: #1a1a1a;
+  background: #000000;
   color: rgba(255, 255, 255, 0.7); }
   .ftco-footer .logo {
     text-transform: uppercase; }
@@ -9230,16 +9230,16 @@ textarea.form-control {
   margin: 0 10px 0 0;
   display: inline-block; }
   .ftco-footer-social li a {
-    height: 50px;
-    width: 50px;
+    height: 120px;
+    width: 120px;
     display: block;
     float: left;
-    background: #b7472a;
+    background: #000000;
     border-radius: 50%;
     position: relative; }
     .ftco-footer-social li a span {
       position: absolute;
-      font-size: 18px;
+      font-size: 70px;
       top: 50%;
       left: 50%;
       -webkit-transform: translate(-50%, -50%);
