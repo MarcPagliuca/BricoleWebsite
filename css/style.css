@@ -31,7 +31,7 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "GoodDog", Arial, "Montserrat", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Montserrat", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", "Patrick Hand", cursive;
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 *,
@@ -51,7 +51,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "GoodDog", Arial, "Montserrat", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Montserrat", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", "Patrick Hand", cursive;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -4749,7 +4749,7 @@ a.close.disabled {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "GoodDog", Arial, "Montserrat", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Montserrat", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", "Patrick Hand", cursive;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -4834,7 +4834,7 @@ a.close.disabled {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "GoodDog", Arial, "Montserrat", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Montserrat", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", "Patrick Hand", cursive;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -7994,8 +7994,9 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6; } }
 
+/* FONT CHANGE BODY DEFAULT YES GOOD */
 body {
-  font-family: "GoodDog", Arial;
+  font-family: "Montserrat", sans-serif;
   background: #000;
   font-size: 16px;
   line-height: 1.8;
@@ -9190,7 +9191,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 90px;
-  padding: 6em 0 0 0;
+  padding: 0 0 0 0;
   background: #000000;
   color: rgba(255, 255, 255, 1); }
   .ftco-footer .logo {
@@ -9202,11 +9203,11 @@ textarea.form-control {
   .ftco-footer .ftco-footer-widget h2 {
     font-weight: normal;
     color: rgba(0, 0, 0, 1);
-    margin-bottom: 30px;
-    font-size: 90px;
-    font-weight: 400; }
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: 20; }
   .ftco-footer .ftco-footer-widget ul li {
-    margin-bottom: 90px; }
+    margin-bottom: 20px; }
     .ftco-footer .ftco-footer-widget ul li a {
       color: rgba(0, 0, 0, 1); }
       .ftco-footer .ftco-footer-widget ul li a span {
